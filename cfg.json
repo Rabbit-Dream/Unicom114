@@ -1,0 +1,6 @@
+{
+    "mongoHost": "localhost",
+    "mongoPort": "27017",
+    "esHost": "localhost",
+    "esPort": "9200"
+}
